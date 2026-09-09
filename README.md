@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Isabella (@hallisabella2701) 
 
-<!--
-**hallisabella2701/hallisabella2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Singapore. I build full-stack web apps and spend weekends hacking on small indie projects.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Building micro-tools with FastAPI and React
+- Experimenting with local-first software and embedded SQLite
+- Reading up on distributed systems and API design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I use daily
+- **Languages:** TypeScript, Python, SQL
+- **Web:** React, FastAPI, Next.js, Tailwind CSS
+- **Data / Infra:** SQLite, PostgreSQL, Docker, Cloudflare
+
+#### Reach out
+- Twitter/X: [@hallisabella](https://x.com)
+- Email: `hallisabella.dev@gmail.com`
